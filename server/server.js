@@ -23,7 +23,7 @@ await connectCloudinary();
 
 
 // allow multiple origins
-const allowedOrigins = [process.env.ALLOWED_ORIGINS, "https://grozeries-frontend.onrender.com"];
+const allowedOrigins = [process.env.ALLOWED_ORIGINS, "https://grozeries-frontend2.onrender.com/"];
 
 // app.post("/stripe",express.raw({type: "application/json"}), stripeWebhooks);
 
