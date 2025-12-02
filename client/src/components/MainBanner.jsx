@@ -17,7 +17,7 @@ const MainBanner = () => {
       />
       <div className="absolute inset-0 flex flex-col items-center md:items-start justify-end md:justify-center px-4 pb-6 md:pb-0 md:pl-18 lg:pl-24">
         <h1 className="text-2xl text-[#E30047] md:text-4xl lg:text-5xl font-bold text-center md:text-left max-w-[18rem] md:max-w-80 lg:max-w-105 leading-tight">
-          Shop🛒 Smart💡, Eat🍴 Fresh🌿 - Powered by Grocery Bee 🐝
+          Shop🛒 Smart💡, Eat🍴 Fresh🌿 - Powered by Grozeries 🐝
         </h1>
 
         <div className="flex flex-col md:flex-row items-center gap-4 md:gap-2 mt-10 font-medium">
